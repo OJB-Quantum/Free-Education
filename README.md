@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 - [Browser-based interactive semiconductor chip education](https://tinytapeout.com/siliwiz/introduction)
 
-- [Browser-based interactive chip simulator with downloadable & uploadable 3D models](https://siliwiz.pages.dev)
+- [Browser-based interactive semicconductor chip simulator with downloadable & uploadable 3D models](https://siliwiz.pages.dev)
 
 - [Browser-based interactive COMSOL superconducting magnet simulation](https://aurora.epfl.ch/app-lib)
 
