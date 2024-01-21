@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 - [3D animations of various hardware](https://www.youtube.com/@BranchEducation/playlists)
 
-- [3D Animations of quantum phenomena & spectroscopy techniques](https://toutestquantique.fr/en)
+- [3D animations of quantum phenomena & spectroscopy techniques](https://toutestquantique.fr/en)
 
 - [Sites for searching up physics topics](https://physurls.com)
 
