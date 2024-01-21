@@ -5,8 +5,6 @@
 A collection of free educational materials, most of which are interactive. They may improve your comprehension of STEM topics and even writing. You may find inspiration for measurement techniques here.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-- [Browser-based interactive writing activities](https://www.quill.org)
-
 - [Browser-based interactive STEM simulations](https://phet.colorado.edu/en/simulations/browse)
 
 - [Browser-based interactive optics simulation](https://phydemo.app/ray-optics)
@@ -36,3 +34,5 @@ ________________________________________________________________________________
 - [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad)
 
 - [Python codes for technical subjects & computational physics](https://github.com/FOSSEE/Python-Textbook-Companions)
+  
+- [Browser-based interactive writing activities](https://www.quill.org)
