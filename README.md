@@ -17,6 +17,8 @@ ________________________________________________________________________________
 
 - [Browser-based interactive quantum education](https://www.st-&rews.ac.uk/physics/quvis)
 
+- [Browser-based interactive writing activities](https://www.quill.org)
+
 - [Learning materials science through swords](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html)
 
 - [DIY electronics tutorials](https://www.instructables.com/member/GreatScottLab/instructables)
@@ -34,5 +36,3 @@ ________________________________________________________________________________
 - [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad)
 
 - [Python codes for technical subjects & computational physics](https://github.com/FOSSEE/Python-Textbook-Companions)
-  
-- [Browser-based interactive writing activities](https://www.quill.org)
