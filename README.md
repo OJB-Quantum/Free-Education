@@ -23,16 +23,16 @@ ________________________________________________________________________________
 
 - [Learning materials science through swords](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html)
 
-- [3D animations of engineering topics](https://www.youtube.com/@Lesics/playlists) ()
+- [3D animations of engineering topics](https://www.youtube.com/@Lesics/playlists)
 
-- [3D animations of various hardware](https://www.youtube.com/@BranchEducation/playlists) ()
+- [3D animations of various hardware](https://www.youtube.com/@BranchEducation/playlists)
 
-- [3D Animations of quantum phenomena & spectroscopy techniques](https://toutestquantique.fr/en) ()
+- [3D Animations of quantum phenomena & spectroscopy techniques](https://toutestquantique.fr/en)
 
-- [Sites for searching up physics topics](https://physurls.com) ()
+- [Sites for searching up physics topics](https://physurls.com)
 
-- [nanoHUB learning resources for semiconductor technology](https://nanohub.org/groups/semiconductoreducation) ()
+- [nanoHUB learning resources for semiconductor technology](https://nanohub.org/groups/semiconductoreducation)
 
-- [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad) ()
+- [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad)
 
-- [Python codes for technical subjects & computational physics](https://github.com/FOSSEE/Python-Textbook-Companions) ()
+- [Python codes for technical subjects & computational physics](https://github.com/FOSSEE/Python-Textbook-Companions)
