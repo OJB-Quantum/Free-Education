@@ -19,9 +19,9 @@ ________________________________________________________________________________
 
 - [Browser-based interactive quantum education](https://www.st-&rews.ac.uk/physics/quvis)
 
-- [DIY electronics tutorials](https://www.instructables.com/member/GreatScottLab/instructables)
-
 - [Learning materials science through swords](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html)
+
+- [DIY electronics tutorials](https://www.instructables.com/member/GreatScottLab/instructables)
 
 - [3D animations of engineering topics](https://www.youtube.com/@Lesics/playlists)
 
