@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 - [Browser-based interactive STEM simulations](https://phet.colorado.edu/en/simulations/browse)
 
-- [Browser-based interactive optics simulation](https://phydemo.app/ray-optics)
+- [Browser-based interactive ray optics simulations](https://phydemo.app/ray-optics)
 
 - [Browser-based interactive semiconductor chip education](https://tinytapeout.com/siliwiz/introduction)
 
