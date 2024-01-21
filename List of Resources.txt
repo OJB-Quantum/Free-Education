@@ -1,0 +1,33 @@
+https://www.quill.org (Browser-based interactive writing activities)
+
+https://phet.colorado.edu/en/simulations/browse (Browser-based, interactive STEM simulations)
+
+https://phet.colorado.edu (Main simulation site)
+
+https://phydemo.app/ray-optics (Browser-based, interactive optics simulation)
+
+https://tinytapeout.com/siliwiz/introduction (Browser-based semiconductor chip education)
+
+https://siliwiz.pages.dev (Browser-based chip simulator with downloadable and uploadable 3D models).
+
+https://aurora.epfl.ch/app-lib (Browser-based COMSOL superconducting magnet simulation)
+
+https://www.st-andrews.ac.uk/physics/quvis (Interactive quantum education)
+
+https://www.youtube.com/@Lesics/playlists (3D animations of engineering topics)
+
+https://www.youtube.com/@BranchEducation/playlists (3D animations of various hardware)
+
+https://toutestquantique.fr/en/ (3D Animations of quantum phenomena and spectroscopy techniques)
+
+https://physurls.com (Sites for searching up physics topics)
+
+https://nanohub.org/groups/semiconductoreducation (nanoHUB semiconductor technology)
+
+https://nanohub.org/resources/silvacotcad (Silvaco nanoHUB for semiconductor simulations)
+
+https://github.com/FOSSEE/Python-Textbook-Companions (Python codes for technical subjects and computational physics)
+
+https://www.instructables.com/member/GreatScottLab/instructables (DIY electronics tutorials)
+
+https://www.tf.uni-kiel.de/matwis/amat/iss/index.html (Learning materials science through swords)
