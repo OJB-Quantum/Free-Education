@@ -23,6 +23,8 @@ ________________________________________________________________________________
 
 - [DIY electronics tutorials](https://www.instructables.com/member/GreatScottLab/instructables)
 
+- [Browser-based interactive GitHub teaching tool](https://learngitbranching.js.org)
+
 - [3D animations of engineering topics](https://www.youtube.com/@Lesics/playlists)
 
 - [3D animations of various hardware](https://www.youtube.com/@BranchEducation/playlists)
@@ -36,5 +38,3 @@ ________________________________________________________________________________
 - [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad)
 
 - [Python codes for technical subjects & computational physics](https://github.com/FOSSEE/Python-Textbook-Companions)
-
-- [Browser-based interactive GitHub teaching tool](https://learngitbranching.js.org)
