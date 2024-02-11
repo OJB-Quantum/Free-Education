@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 - [Browser-based interactive COMSOL superconducting magnet simulation](https://aurora.epfl.ch/app-lib)
 
-- [Browser-based interactive quantum education](https://www.st-&rews.ac.uk/physics/quvis)
+- [Browser-based interactive quantum education](https://www.st-andrews.ac.uk/physics/quvis/) 
 
 - [Browser-based interactive writing activities](https://www.quill.org)
 
