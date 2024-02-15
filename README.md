@@ -5,7 +5,6 @@
 A collection of free educational materials, most of which are interactive. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-| Table of Hyperlinks |
 |---------------------|
 | [Browser-based interactive STEM simulations](https://phet.colorado.edu/en/simulations/browse) |
 | [Browser-based interactive ray optics simulations](https://phydemo.app/ray-optics) |
@@ -24,3 +23,4 @@ ________________________________________________________________________________
 | [nanoHUB learning resources for semiconductor technology](https://nanohub.org/groups/semiconductoreducation) |
 | [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad) |
 | [Python codes for technical subjects & computational physics](https://github.com/FOSSEE/Python-Textbook-Companions) |
+|---------------------|
