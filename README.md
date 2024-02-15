@@ -38,3 +38,8 @@ ________________________________________________________________________________
 - [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad)
 
 - [Python codes for technical subjects & computational physics](https://github.com/FOSSEE/Python-Textbook-Companions)
+
+
+| Navaho Character | [UTF-8] "U+" Notation | [UTF-8] "\u" Notation |
+|------------------|-----------------------|-----------------------|
+| A         | U+0041                   | \u0041              |
