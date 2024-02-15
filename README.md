@@ -5,6 +5,7 @@
 A collection of free educational materials, most of which are interactive. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing.
 _____________________________________________________________________________________________________________________________________________________________________________
 
+| Table of Procured Resources |
 |---------------------|
 | [Browser-based interactive STEM simulations](https://phet.colorado.edu/en/simulations/browse) |
 | [Browser-based interactive ray optics simulations](https://phydemo.app/ray-optics) |
