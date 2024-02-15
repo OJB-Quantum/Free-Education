@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 | Table of Curated Resources |
 |---------------------|
-| [Browser-based interactive STEM simulations](https://phet.colorado.edu/en/simulations/browse) |
+| - [Browser-based interactive STEM simulations](https://phet.colorado.edu/en/simulations/browse) |
 | [Browser-based interactive ray optics simulations](https://phydemo.app/ray-optics) |
 | [Browser-based interactive semiconductor chip education](https://tinytapeout.com/siliwiz/introduction) |
 | [Browser-based interactive semiconductor chip simulator with downloadable & uploadable 3D models](https://siliwiz.pages.dev) |
