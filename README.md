@@ -17,11 +17,11 @@ ________________________________________________________________________________
 | [Browser-based interactive writing activities](https://www.quill.org) |
 | [DIY electronics tutorials](https://www.instructables.com/member/GreatScottLab/instructables) |
 | [Browser-based interactive GitHub teaching tool](https://learngitbranching.js.org) |
-| 3D Animations |
+| |
 | [3D animations of engineering topics](https://www.youtube.com/@Lesics/playlists) |
 | [3D animations of various hardware](https://www.youtube.com/@BranchEducation/playlists) |
 | [3D animations of quantum phenomena & spectroscopy techniques](https://toutestquantique.fr/en) |
-|---------------------|
+| |
 | [Sites for searching up physics topics](https://physurls.com) |
 | [nanoHUB learning resources for semiconductor technology](https://nanohub.org/groups/semiconductoreducation) |
 | [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad) |
