@@ -23,4 +23,3 @@ ________________________________________________________________________________
 | [nanoHUB learning resources for semiconductor technology](https://nanohub.org/groups/semiconductoreducation) |
 | [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad) |
 | [Python codes for technical subjects & computational physics](https://github.com/FOSSEE/Python-Textbook-Companions) |
-|---------------------|
