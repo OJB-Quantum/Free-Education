@@ -16,6 +16,8 @@ ________________________________________________________________________________
 | • [Browser-based interactive quantum education](https://www.st-andrews.ac.uk/physics/quvis/) | • 
 | • [Browser-based interactive writing activities](https://www.quill.org) |
 | • [DIY electronics tutorials](https://www.instructables.com/member/GreatScottLab/instructables) |
+| • [DIY electric discharge machining tool](https://www.printables.com/@RackRoboticsO_631255/models) |
+| • [DIY scanning tunneling microscope](https://hackaday.io/project/4986-scanning-tunneling-microscope) |
 | • [Browser-based interactive GitHub teaching tool](https://learngitbranching.js.org) |
 | • [3D animations of engineering topics](https://www.youtube.com/@Lesics/playlists) |
 | • [3D animations of various hardware](https://www.youtube.com/@BranchEducation/playlists) |
