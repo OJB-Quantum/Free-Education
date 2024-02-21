@@ -6,7 +6,7 @@ A collection of free educational materials, most of which are interactive. You m
 _____________________________________________________________________________________________________________________________________________________________________________
 
 | Table of Curated Resources |
-|---------------------|
+|----------------------------|
 | • [Browser-based interactive STEM simulations](https://phet.colorado.edu/en/simulations/browse) |
 | • [Browser-based interactive ray optics simulations](https://phydemo.app/ray-optics) |
 | • [Browser-based interactive semiconductor chip education](https://tinytapeout.com/siliwiz/introduction) |
