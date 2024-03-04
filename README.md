@@ -19,13 +19,13 @@ ________________________________________________________________________________
 | • [Browser-based interactive quantum circuit simulator](https://qcsimulator.github.io) |
 | • [Browser-based interactive writing activities](https://www.quill.org) |
 | • [Browser-based interactive writing tool](https://ludwig.guru) |
-| • [DIY electronics tutorials](https://www.instructables.com/member/GreatScottLab/instructables) |
-| • [DIY electric discharge machining tutorial](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) |
-| • [DIY scanning tunneling microscope tutorial](https://hackaday.io/project/4986-scanning-tunneling-microscope) |
 | • [Browser-based interactive GitHub teaching tool](https://learngitbranching.js.org) |
 | • [3D animations of engineering topics](https://www.youtube.com/@Lesics/playlists) |
 | • [3D animations of various hardware](https://www.youtube.com/@BranchEducation/playlists) |
 | • [3D animations of quantum phenomena & spectroscopy techniques](https://toutestquantique.fr/en) |
+| • [DIY electronics tutorials](https://www.instructables.com/member/GreatScottLab/instructables) |
+| • [DIY electric discharge machining tutorial](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) |
+| • [DIY scanning tunneling microscope tutorial](https://hackaday.io/project/4986-scanning-tunneling-microscope) |
 | • [Sites for searching up physics topics](https://physurls.com) |
 | • [nanoHUB learning resources for semiconductor technology](https://nanohub.org/groups/semiconductoreducation) |
 | • [Silvaco nanoHUB for interactive semiconductor simulations](https://nanohub.org/resources/silvacotcad) |
