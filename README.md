@@ -31,3 +31,4 @@ ________________________________________________________________________________
 | • [nanoHUB - Silvaco TCAD](https://nanohub.org/resources/silvacotcad) | Interactive Semiconductor Simulations |
 | • [MIT OCW](https://ocw.mit.edu/search) | Learning Resources For a Wide Range of Technical Topics |
 | • [GitHub - FOSSEE](https://github.com/FOSSEE/Python-Textbook-Companions) | Python Codes for Technical Subjects & Computational Physics |
+| • [GitHub - Qiskit Metal to Litho](https://github.com/OJB-Quantum/Qiskit-Metal-to-Litho) | Learning Resources for Quantum Device Fabrication |
