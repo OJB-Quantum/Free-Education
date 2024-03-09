@@ -12,7 +12,7 @@ ________________________________________________________________________________
 | • [Phydemo](https://phydemo.app/ray-optics) | Ray Optics Browser-Based Interactive Ray Optics Simulations |
 | • [Tiny Tapeout](https://tinytapeout.com/siliwiz/introduction) | Browser-Based Interactive Semiconductor Circuit Education |
 | • [Siliwiz](https://siliwiz.pages.dev) | Browser-Based Interactive Semiconductor Circuit Simulator with Downloadable 3D Models |
-| • [CAU - Institute of Materials Science](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html) | Learning Materials Science Through Swords |
+| • [CAU - Inst. of Materials Science](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html) | Learning Materials Science Through Swords |
 | • [AURORA](https://aurora.epfl.ch/app-lib) | Browser-Based Interactive COMSOL Superconducting Magnet Simulation |
 | • [QuVis - U St. Andrews](https://www.st-andrews.ac.uk/physics/quvis) | Browser-Based Interactive Quantum Education |
 | • [Grok Bloch](https://javafxpert.github.io/grok-bloch) | Browser-Based Interactive Quantum State Visualization on the Bloch Sphere |
