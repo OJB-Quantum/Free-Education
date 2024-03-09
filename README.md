@@ -5,8 +5,8 @@
 A collection of free educational materials, most of which are interactive. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-| Table of Curated Resources |
-|--------------------------| -----------------------------------------------------------------------------------------|
+| Table of Curated Resources | |
+|--------------------------|-----------------------------------------------------------------------------------------|
 | • [PhET - CU Boulder](https://phet.colorado.edu/en/simulations/browse) | Browser-Based Interactive STEM Simulations |
 | • [oPhysics - Browser-Based Interactive Physics Simulations](https://ophysics.com/w12.html) |
 | • [Phydemo - Ray Optics Browser-Based Interactive Ray Optics Simulations](https://phydemo.app/ray-optics) |
