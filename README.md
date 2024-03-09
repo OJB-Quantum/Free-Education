@@ -20,13 +20,14 @@ ________________________________________________________________________________
 | • [Quill](https://www.quill.org) | Browser-Based Interactive Writing Activities |
 | • [Luwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
+| • [Browserling - PhysURLs](https://physurls.com) | Sites for Searching Up Open Access Physics Topics |
 | • [Lesics](https://www.youtube.com/@Lesics/playlists) | 3D Animations of Engineering Topics |
 | • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Various Hardware |
 | • [Physics Reimagined](https://toutestquantique.fr/en) | 3D Animations of Quantum Phenomena & Spectroscopy Techniques |
 | • [GreatScott Lab](https://www.instructables.com/member/GreatScottLab/instructables) | DIY Electronics Tutorials |
 | • [Printables - Rack Robotics](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) | DIY Electric Discharge Machining Tutorial |
 | • [Hackaday - Dan Berard](https://hackaday.io/project/4986-scanning-tunneling-microscope) | DIY Scanning Tunneling Microscope Tutorial |
-| • [Browserling - PhysURLs](https://physurls.com) | Sites for Searching Up Open Access Physics Topics |
-| • [nanoHUB](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
+| • [nanoHUB - Purdue](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
 | • [nanoHUB - Silvaco TCAD](https://nanohub.org/resources/silvacotcad) | Interactive Semiconductor Simulations |
+| • [MIT OCW](https://ocw.mit.edu/search) | Learning Resources For a Wide Range of Technical Topics |
 | • [GitHub - FOSSEE](https://github.com/FOSSEE/Python-Textbook-Companions) | Python Codes for Technical Subjects & Computational Physics |
