@@ -5,7 +5,7 @@
 A collection of free educational materials, most of which are interactive. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-| Table of Curated Resources | |
+| Table of Curated Resources | Description |
 |--------------------------|-----------------------------------------------------------------------------------------|
 | • [PhET - CU Boulder](https://phet.colorado.edu/en/simulations/browse) | Browser-Based Interactive STEM Simulations |
 | • [oPhysics](https://ophysics.com/w12.html) | Browser-Based Interactive Physics Simulations |
