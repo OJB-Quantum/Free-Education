@@ -13,7 +13,7 @@ ________________________________________________________________________________
 | • [Tiny Tapeout](https://tinytapeout.com/siliwiz/introduction) | Browser-Based Interactive Semiconductor Circuit Education |
 | • [Siliwiz](https://siliwiz.pages.dev) | Browser-Based Interactive Semiconductor Circuit Simulator with Downloadable 3D Models |
 | • [CAU - Inst. of Mat. Sci.](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html) | Learning Materials Science Through Swords |
-| • [AURORA](https://aurora.epfl.ch/app-lib) | Browser-Based Interactive COMSOL Superconducting Magnet Simulation |
+| • [AURORA - COMSOL](https://aurora.epfl.ch/app-lib) | Browser-Based Interactive COMSOL Superconducting Magnet Simulation |
 | • [QuVis - U St. Andrews](https://www.st-andrews.ac.uk/physics/quvis) | Browser-Based Interactive Quantum Education |
 | • [Grok Bloch](https://javafxpert.github.io/grok-bloch) | Browser-Based Interactive Quantum State Visualization on the Bloch Sphere |
 | • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
