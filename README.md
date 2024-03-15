@@ -9,7 +9,7 @@ ________________________________________________________________________________
 |---------------------------|-----------------------------------------------------------------------------------------|
 | • [PhET - CU Boulder](https://phet.colorado.edu/en/simulations/browse) | Browser-Based Interactive STEM Simulations |
 | • [oPhysics](https://ophysics.com/w12.html) | Browser-Based Interactive Physics Simulations |
-| • [Phydemo](https://phydemo.app/ray-optics) | Ray Optics Browser-Based Interactive Ray Optics Simulations |
+| • [Phydemo](https://phydemo.app/ray-optics) | Browser-Based Interactive Ray Optics Simulations |
 | • [Tiny Tapeout](https://tinytapeout.com/siliwiz/introduction) | Browser-Based Interactive Semiconductor Circuit Education |
 | • [Siliwiz](https://siliwiz.pages.dev) | Browser-Based Interactive Semiconductor Circuit Simulator with Downloadable 3D Models |
 | • [CAU - Inst. of Mat. Sci.](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html) | Learning Materials Science Through Swords |
