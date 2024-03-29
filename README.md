@@ -28,7 +28,7 @@ ________________________________________________________________________________
 | • [Physics Reimagined](https://toutestquantique.fr/en) | 3D Animations of Quantum Phenomena, Microscopy, & Spectroscopy Techniques |
 | • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
 | • [European School on Magnetism](https://magnetism.eu/esm/repository-topics.html) | Learning Resources for Topics on Magnetism |
-| • [Electric Circuits Textbook - All About Circuits](https://www.allaboutcircuits.com/textbook) | Learning Resources for Electric Circuits |
+| • [Electric Circuits Textbook - All About Circuits](https://www.allaboutcircuits.com/textbook/) | Learning Resources for Electric Circuits |
 | • [nanoHUB - Purdue](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
 | • [nanoHUB - Silvaco TCAD](https://nanohub.org/resources/silvacotcad) | Interactive Semiconductor Simulations |
 | • [MIT OCW](https://ocw.mit.edu/search) | Learning Resources For a Wide Range of Technical Topics |
