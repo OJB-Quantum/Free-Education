@@ -28,6 +28,8 @@ ________________________________________________________________________________
 | • [Instructables - GreatScott Lab](https://www.instructables.com/member/GreatScottLab/instructables) | DIY Electronics Tutorials |
 | • [Printables - Rack Robotics](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) | DIY Electric Discharge Machining Tutorial |
 | • [Hackaday - Dan Berard](https://hackaday.io/project/4986-scanning-tunneling-microscope) | DIY Scanning Tunneling Microscope Tutorial |
+| • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
+| • [European School on Magnetism](https://magnetism.eu/esm/repository-topics.html) | Learning Resources for Topics on Magnetism |
 | • [nanoHUB - Purdue](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
 | • [nanoHUB - Silvaco TCAD](https://nanohub.org/resources/silvacotcad) | Interactive Semiconductor Simulations |
 | • [MIT OCW](https://ocw.mit.edu/search) | Learning Resources For a Wide Range of Technical Topics |
