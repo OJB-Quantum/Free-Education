@@ -36,6 +36,6 @@ ________________________________________________________________________________
 | • [GitHub - QC Hardware How-To](https://github.com/OJB-Quantum/QC-Hardware-How-To) | Learning Resources for Quantum Hardware Engineering |
 | • [GitHub - Qiskit Metal to Litho](https://github.com/OJB-Quantum/Qiskit-Metal-to-Litho) | Learning Resources for Quantum Device Fabrication |
 | • [Instructables - GreatScott Lab](https://www.instructables.com/member/GreatScottLab/instructables) | DIY Electronics Tutorials |
-| • [DIY EE - All About Circuits](https://www.allaboutcircuits.com/textbook/experiments) | DIY Electronics Projects |
+| • [DIY EE List - All About Circuits](https://www.allaboutcircuits.com/textbook/experiments) | DIY Electronics Projects |
 | • [Printables - Rack Robotics](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) | DIY Electric Discharge Machining Tutorial |
 | • [Hackaday - Dan Berard](https://hackaday.io/project/4986-scanning-tunneling-microscope) | DIY Scanning Tunneling Microscope Tutorial |
