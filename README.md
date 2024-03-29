@@ -26,14 +26,16 @@ ________________________________________________________________________________
 | • [Lesics](https://www.youtube.com/@Lesics/playlists) | 3D Animations of Engineering Topics |
 | • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Various Hardware |
 | • [Physics Reimagined](https://toutestquantique.fr/en) | 3D Animations of Quantum Phenomena, Microscopy, & Spectroscopy Techniques |
-| • [Instructables - GreatScott Lab](https://www.instructables.com/member/GreatScottLab/instructables) | DIY Electronics Tutorials |
-| • [Printables - Rack Robotics](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) | DIY Electric Discharge Machining Tutorial |
-| • [Hackaday - Dan Berard](https://hackaday.io/project/4986-scanning-tunneling-microscope) | DIY Scanning Tunneling Microscope Tutorial |
 | • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
 | • [European School on Magnetism](https://magnetism.eu/esm/repository-topics.html) | Learning Resources for Topics on Magnetism |
+| • [Electric Circuits Textbook - All About Circuits](https://www.allaboutcircuits.com/textbook) | Learning Resources for Electric Circuits |
 | • [nanoHUB - Purdue](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
 | • [nanoHUB - Silvaco TCAD](https://nanohub.org/resources/silvacotcad) | Interactive Semiconductor Simulations |
 | • [MIT OCW](https://ocw.mit.edu/search) | Learning Resources For a Wide Range of Technical Topics |
 | • [GitHub - FOSSEE](https://github.com/FOSSEE/Python-Textbook-Companions) | Python Codes for Technical Subjects & Computational Physics |
 | • [GitHub - QC Hardware How-To](https://github.com/OJB-Quantum/QC-Hardware-How-To) | Learning Resources for Quantum Hardware Engineering |
 | • [GitHub - Qiskit Metal to Litho](https://github.com/OJB-Quantum/Qiskit-Metal-to-Litho) | Learning Resources for Quantum Device Fabrication |
+| • [Instructables - GreatScott Lab](https://www.instructables.com/member/GreatScottLab/instructables) | DIY Electronics Tutorials |
+| • [ DIY - All About Circuits](https://www.allaboutcircuits.com/textbook/experiments) | DIY Electronics Projects |
+| • [Printables - Rack Robotics](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) | DIY Electric Discharge Machining Tutorial |
+| • [Hackaday - Dan Berard](https://hackaday.io/project/4986-scanning-tunneling-microscope) | DIY Scanning Tunneling Microscope Tutorial |
