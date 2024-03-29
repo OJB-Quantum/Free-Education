@@ -19,6 +19,7 @@ ________________________________________________________________________________
 | • [Grok Bloch](https://javafxpert.github.io/grok-bloch) | Browser-Based Interactive Quantum State Visualization on the Bloch Sphere |
 | • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
 | • [OQTANT - Infleqtion](https://oqtant.infleqtion.com) | Cloud-Based, Hardware Supported Quantum Matter Phenomena Generator & Simulator |
+| • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
 | • [Quill](https://www.quill.org) | Browser-Based Interactive Writing Activities |
 | • [Luwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
@@ -26,7 +27,6 @@ ________________________________________________________________________________
 | • [Lesics](https://www.youtube.com/@Lesics/playlists) | 3D Animations of Engineering Topics |
 | • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Various Hardware |
 | • [Physics Reimagined](https://toutestquantique.fr/en) | 3D Animations of Quantum Phenomena, Microscopy, & Spectroscopy Techniques |
-| • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
 | • [European School on Magnetism](https://magnetism.eu/esm/repository-topics.html) | Learning Resources for Topics on Magnetism |
 | • [Electric Circuits Textbook - All About Circuits](https://www.allaboutcircuits.com/textbook/) | Learning Resources for Electric Circuits |
 | • [nanoHUB - Purdue](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
