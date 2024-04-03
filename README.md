@@ -28,6 +28,7 @@ ________________________________________________________________________________
 | • [Browserling - PhysURLs](https://physurls.com) | Sites for Searching Up Open Access Physics Topics |
 | • [Lesics](https://www.youtube.com/@Lesics/playlists) | 3D Animations of Engineering Topics |
 | • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Various Hardware |
+| • [JaredOwen3D](https://www.youtube.com/@JaredOwen/playlists) | 3D Animations of How Things Work |
 | • [Physics Reimagined](https://toutestquantique.fr/en) | 3D Animations of Quantum Phenomena, Microscopy, & Spectroscopy Techniques |
 | • [European School on Magnetism](https://magnetism.eu/esm/repository-topics.html) | Learning Resources for Topics on Magnetism |
 | • [Electric Circuits Textbook - All About Circuits](https://www.allaboutcircuits.com/textbook/) | Learning Resources for Electric Circuits |
