@@ -26,8 +26,9 @@ ________________________________________________________________________________
 | • [Luwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
 | • [Browserling - PhysURLs](https://physurls.com) | Sites for Searching Up Open Access Physics Topics |
+| • [Zack D. Films](https://www.youtube.com/@zackdfilms/shorts)| 3D Animations of Everyday Topics |
 | • [Lesics](https://www.youtube.com/@Lesics/playlists) | 3D Animations of Engineering Topics |
-| • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Various Hardware |
+| • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Everyday Hardware |
 | • [JaredOwen3D](https://www.youtube.com/@JaredOwen/playlists) | 3D Animations of How Things Work |
 | • [Physics Reimagined](https://toutestquantique.fr/en) | 3D Animations of Quantum Phenomena, Microscopy, & Spectroscopy Techniques |
 | • [European School on Magnetism](https://magnetism.eu/esm/repository-topics.html) | Learning Resources for Topics on Magnetism |
