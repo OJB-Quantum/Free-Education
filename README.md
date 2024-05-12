@@ -22,6 +22,7 @@ ________________________________________________________________________________
 | • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
 | • [OQTANT - Infleqtion](https://oqtant.infleqtion.com) | Cloud-Based, Hardware Supported Quantum Matter Phenomena Generator & Simulator |
 | • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
+| • [MolView](https://molview.org)| Browser-Based Interactive Atomic & Molecular Modeling Visualization & Analysis Tool |
 | • [Quill](https://www.quill.org) | Browser-Based Interactive Writing Activities |
 | • [Luwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
