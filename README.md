@@ -12,6 +12,7 @@ ________________________________________________________________________________
 | • [Phydemo](https://phydemo.app/ray-optics) | Browser-Based Interactive Ray Optics Simulations |
 | • [Ripple Tank - Falstad](https://www.falstad.com/ripple/Ripple.html) | Browser-Based Interactive 2D & 3D Wave Simulations |
 | • [Applets - Falstad](https://www.falstad.com/mathphysics.html) | Browser-Based Interactive Math, Physics, & Engineering Simulations |
+| • [MolView](https://molview.org)| Browser-Based Interactive Atomic & Molecular Modeling Visualization & Analysis Tool |
 | • [Tiny Tapeout](https://tinytapeout.com/siliwiz/introduction) | Browser-Based Interactive Semiconductor Circuit Education |
 | • [Siliwiz](https://siliwiz.pages.dev) | Browser-Based Interactive Semiconductor Circuit Simulator with Downloadable 3D Models |
 | • [CAU - Inst. of Mat. Sci.](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html) | Learning Materials Science Through Swords |
@@ -22,7 +23,6 @@ ________________________________________________________________________________
 | • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
 | • [OQTANT - Infleqtion](https://oqtant.infleqtion.com) | Cloud-Based, Hardware Supported Quantum Matter Phenomena Generator & Simulator |
 | • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
-| • [MolView](https://molview.org)| Browser-Based Interactive Atomic & Molecular Modeling Visualization & Analysis Tool |
 | • [Quill](https://www.quill.org) | Browser-Based Interactive Writing Activities |
 | • [Luwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
