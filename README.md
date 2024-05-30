@@ -18,6 +18,7 @@ ________________________________________________________________________________
 | • [CAU - Inst. of Mat. Sci.](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html) | Learning Materials Science Through Swords |
 | • [Magnet Academy - National MagLab](https://nationalmaglab.org/magnet-academy/watch-play/interactive-tutorials) | Browser-Based Interactive Tutorials on Electricity & Magnetism |
 | • [AURORA - COMSOL](https://aurora.epfl.ch/app-lib) | Browser-Based Interactive COMSOL Superconducting Magnet Simulation |
+| • [Learn Quantum Mechanics - Georgia Tech](https://learnqm.gatech.edu/Semiconductor-Physics-Visualization/index.html) | Browser-Based Interactive Quantum Mechanics & Semiconductor Physics Animations |
 | • [QuVis - U St. Andrews](https://www.st-andrews.ac.uk/physics/quvis) | Browser-Based Interactive Quantum Education |
 | • [Grok Bloch](https://javafxpert.github.io/grok-bloch) | Browser-Based Interactive Quantum State Visualization on the Bloch Sphere |
 | • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
