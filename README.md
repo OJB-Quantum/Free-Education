@@ -50,3 +50,9 @@ ________________________________________________________________________________
 | • [DIY EE List - All About Circuits](https://www.allaboutcircuits.com/textbook/experiments/) | DIY Electronics Projects |
 | • [Printables - Rack Robotics](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) | DIY Electric Discharge Machining Tutorial |
 | • [Hackaday - Dan Berard](https://hackaday.io/project/4986-scanning-tunneling-microscope) | DIY Scanning Tunneling Microscope Tutorial |
+________________________________________________________________________________________________________________________________________________
+| Full Immersion by Sight, Auditory, and Tactile Means |
+|-|
+| Sight = Animation |
+| Auditory = Harmonics |
+| Tactility = Braille-mathematics-inspired learning |
