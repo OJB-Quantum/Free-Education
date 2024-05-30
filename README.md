@@ -55,4 +55,4 @@ ________________________________________________________________________________
 |-|
 | Sight = Animation |
 | Auditory = Harmonics |
-| Tactility = Braille-mathematics-inspired learning |
+| Tactility = Braille-mathematics-inspired learning or 3D-printed components |
