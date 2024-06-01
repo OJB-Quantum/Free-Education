@@ -38,6 +38,7 @@ ________________________________________________________________________________
 | • [1 minute Blender](https://youtube.com/playlist?list=PLFmCO7KRkJbCtKIHG33didkEZdYIjVRy9&si=SdrL3UahNIgLyQ_D)| 3D Rendering Tutorials in 1 Minute Using Blender |
 | • [CG Cookie](https://youtube.com/playlist?list=PL3GeP3YLZn5hNd8eLSC64RX3Cr2I9xu8o&si=EhdbeEkkkgBUhqeC)| 3D Rendering Tutorials Using Blender |
 | • [KennyPhases](https://youtube.com/playlist?list=PLeT-XEXZURqMDgk-Zv8xBASoTgI6aMZ3k&si=Rmoa70kj7huolcVg)| 3D Animation Tutorials Using Blender |
+| • [PIXXO 3D](https://www.youtube.com/@PIXXO3D/playlists)| 3D Animation Tutorials Using Blender |
 | • [European School on Magnetism](https://magnetism.eu/esm/repository-topics.html) | Learning Resources for Topics on Advanced Magnetism |
 | • [Electric Circuits Textbook - All About Circuits](https://www.allaboutcircuits.com/textbook/) | Learning Resources for Electric Circuits |
 | • [nanoHUB - Purdue](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
