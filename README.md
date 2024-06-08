@@ -33,6 +33,7 @@ ________________________________________________________________________________
 | • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Everyday Hardware |
 | • [JaredOwen3D](https://www.youtube.com/@JaredOwen/playlists) | 3D Animations of How Things Work |
 | • [Physics Reimagined](https://toutestquantique.fr/en) | 3D Animations of Quantum Phenomena, Microscopy, & Spectroscopy Techniques |
+| • [TheSiGuy](https://www.youtube.com/@TheSiGuyEN/playlists) | 3D Animations of Electrical Engineering Topics |
 | • [Ryo Mizuta Graphics](https://youtube.com/playlist?list=PLDEMMuOUBj1ZPNZV_SIfvPWcCubXM1Biq&si=vvsFk0cM80d3cajC)| 3D Rendering Tutorials for Scientific Illustration Using Blender |
 | • [CGFigures](https://www.youtube.com/@CGFigures/playlists)| 3D Rendering Tutorials for Scientific Figures Using Blender |
 | • [1 minute Blender](https://youtube.com/playlist?list=PLFmCO7KRkJbCtKIHG33didkEZdYIjVRy9&si=SdrL3UahNIgLyQ_D)| 3D Rendering Tutorials in 1 Minute Using Blender |
