@@ -2,7 +2,7 @@
 
 
 
-A collection of free educational materials, most of which are interactive. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing.
+A collection of free educational materials, most of which are interactive. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing. Curated by Onri Jay Benally, a Diné Quantum Hardware Engineer.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 | List of Curated Resources | Description |
