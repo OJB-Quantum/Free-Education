@@ -21,9 +21,10 @@ ________________________________________________________________________________
 | • [Learn Quantum Mechanics - Georgia Tech](https://learnqm.gatech.edu/Semiconductor-Physics-Visualization/index.html) | Browser-Based Interactive Quantum Mechanics & Semiconductor Physics Animations |
 | • [QuVis - U St. Andrews](https://www.st-andrews.ac.uk/physics/quvis) | Browser-Based Interactive Quantum Education |
 | • [Grok Bloch](https://javafxpert.github.io/grok-bloch) | Browser-Based Interactive Quantum State Visualization on the Bloch Sphere |
-| • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
-| • [OQTANT - Infleqtion](https://oqtant.infleqtion.com) | Cloud-Based, Hardware Supported Quantum Matter Phenomena Generator & Simulator |
+| • [IQM Academy - IQM](https://www.iqmacademy.com/play)| Browser-Based Interactive Quantum Computing Education Tools |
 | • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
+| • [OQTANT - Infleqtion](https://oqtant.infleqtion.com) | Cloud-Based, Hardware Supported Quantum Matter Phenomena Generator & Simulator |
+| • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
 | • [Quill](https://www.quill.org) | Browser-Based Interactive Writing Activities |
 | • [Luwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
