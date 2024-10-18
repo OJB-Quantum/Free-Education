@@ -31,6 +31,7 @@ ________________________________________________________________________________
 | • [Browserling - PhysURLs](https://physurls.com) | Sites for Searching Up Open Access Physics Topics |
 | • [Zack D. Films](https://www.youtube.com/@zackdfilms/shorts)| 3D Animations of Everyday Topics |
 | • [Lesics](https://www.youtube.com/@Lesics/playlists) | 3D Animations of Engineering Topics |
+| • [The Engineering Mindset](https://www.youtube.com/@EngineeringMindset/playlists) | 3D Animations of Engineering Topics |
 | • [ScienceClicEN](https://www.youtube.com/@ScienceClicEN/playlists) | 3D Animations of Science Topics |
 | • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Everyday Hardware |
 | • [JaredOwen3D](https://www.youtube.com/@JaredOwen/playlists) | 3D Animations of How Things Work |
