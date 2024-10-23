@@ -52,6 +52,7 @@ ________________________________________________________________________________
 | • [nanoHUB - Purdue](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
 | • [nanoHUB - Silvaco TCAD](https://nanohub.org/resources/silvacotcad) | Interactive Semiconductor Simulations |
 | • [MIT OCW](https://ocw.mit.edu/search) | Learning Resources For a Wide Range of Technical Topics |
+| • [Sincxpress Education](https://sincxpress.com) | Math & Science Using Python |
 | • [GitHub - FOSSEE](https://github.com/FOSSEE/Python-Textbook-Companions) | Python Codes for Technical Subjects & Computational Physics |
 | • [GitHub - QC Hardware How-To](https://github.com/OJB-Quantum/QC-Hardware-How-To) | Learning Resources for Quantum Hardware Engineering |
 | • [GitHub - Qiskit Metal to Litho](https://github.com/OJB-Quantum/Qiskit-Metal-to-Litho) | Learning Resources for Quantum Device Fabrication |
