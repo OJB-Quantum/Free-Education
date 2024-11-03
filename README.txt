@@ -1,8 +1,6 @@
 # Free-Education
 
-
-
-A collection of free educational materials, most of which are interactive. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing. Curated by Onri Jay Benally, an Indigenous American Quantum Hardware Engineer.
+A collection of free educational materials, most of which are interactive or 3D animated. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing. Curated by Onri Jay Benally, an Indigenous American Quantum Hardware Engineer.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 | List of Curated Resources | Description |
@@ -30,11 +28,15 @@ ________________________________________________________________________________
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
 | • [Browserling - PhysURLs](https://physurls.com) | Sites for Searching Up Open Access Physics Topics |
 | • [Zack D. Films](https://www.youtube.com/@zackdfilms/shorts)| 3D Animations of Everyday Topics |
-| • [Lesics](https://www.youtube.com/@Lesics/playlists) | 3D Animations of Engineering Topics |
+| • [Sabins Civil Engineering](https://www.youtube.com/@SabinCivil/playlists) | 3D Animations of Engineering Topics |
+| • [The Engineering Mindset](https://www.youtube.com/@EngineeringMindset/playlists) | 3D Animations of Engineering Topics |
+| • [JAES Company](https://www.youtube.com/@Jaescompany/playlists) | 3D Animations of Engineering Topics |
+| • [Learnchannel-TV](https://www.youtube.com/@learnchannel-TV/playlists) | 3D Animations of Engineering Tutorials |
 | • [ScienceClicEN](https://www.youtube.com/@ScienceClicEN/playlists) | 3D Animations of Science Topics |
 | • [Branch Education](https://www.youtube.com/@BranchEducation/playlists) | 3D Animations of Everyday Hardware |
 | • [JaredOwen3D](https://www.youtube.com/@JaredOwen/playlists) | 3D Animations of How Things Work |
 | • [TheSiGuy](https://www.youtube.com/@TheSiGuyEN/playlists) | 2D & 3D Animations of Electrical Engineering Topics |
+| • [OSWOS - Electric Motor](https://www.youtube.com/@Electric-Motor/playlists) | 3D Animations of Electric Motor Topics |
 | • [Physics Reimagined](https://toutestquantique.fr/en) | 3D Animations of Quantum Phenomena, Microscopy, & Spectroscopy Techniques |
 | • [Ryo Mizuta Graphics](https://youtube.com/playlist?list=PLDEMMuOUBj1ZPNZV_SIfvPWcCubXM1Biq&si=vvsFk0cM80d3cajC)| 3D Rendering Tutorials for Scientific Illustration Using Blender |
 | • [CGFigures](https://www.youtube.com/@CGFigures/playlists)| 3D Rendering Tutorials for Scientific Figures Using Blender |
@@ -50,6 +52,7 @@ ________________________________________________________________________________
 | • [nanoHUB - Purdue](https://nanohub.org/groups/semiconductoreducation) | Learning Resources for Semiconductor Technology |
 | • [nanoHUB - Silvaco TCAD](https://nanohub.org/resources/silvacotcad) | Interactive Semiconductor Simulations |
 | • [MIT OCW](https://ocw.mit.edu/search) | Learning Resources For a Wide Range of Technical Topics |
+| • [Sincxpress Education](https://sincxpress.com) | Math & Science Using Python |
 | • [GitHub - FOSSEE](https://github.com/FOSSEE/Python-Textbook-Companions) | Python Codes for Technical Subjects & Computational Physics |
 | • [GitHub - QC Hardware How-To](https://github.com/OJB-Quantum/QC-Hardware-How-To) | Learning Resources for Quantum Hardware Engineering |
 | • [GitHub - Qiskit Metal to Litho](https://github.com/OJB-Quantum/Qiskit-Metal-to-Litho) | Learning Resources for Quantum Device Fabrication |
