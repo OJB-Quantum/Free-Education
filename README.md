@@ -41,8 +41,9 @@ ________________________________________________________________________________
 | • [Ryo Mizuta Graphics](https://youtube.com/playlist?list=PLDEMMuOUBj1ZPNZV_SIfvPWcCubXM1Biq&si=vvsFk0cM80d3cajC)| 3D Rendering Tutorials for Scientific Illustration Using Blender |
 | • [CGFigures](https://www.youtube.com/@CGFigures/playlists)| 3D Rendering Tutorials for Scientific Figures Using Blender |
 | • [Brandon 3D](https://youtube.com/playlist?list=PLYjDeW9Aw0jajsHUG4uXFMy-CplZzPIpv&si=RzoU6zsQ1B8qSfow) | Comprehensive 3D Rendering Tutorials Using Blender |
-| • [BlenderVitals](https://youtube.com/playlist?list=PLMDIokDTwYr2P7NJkiEPbezEZsgW9Yr_N&si=AGickgU4PaTdoMrd) | 3D Rendering Tutorials in 1 Minute Using Blender |
-| • [1 minute Blender](https://youtube.com/playlist?list=PLFmCO7KRkJbCtKIHG33didkEZdYIjVRy9&si=SdrL3UahNIgLyQ_D)| 3D Rendering Tutorials in 1 Minute Using Blender |
+| • [QuickTipsCentral](https://youtube.com/playlist?list=PLw4YtOBgDIiMEx6_14Kj4a7xioJTcnXxV&si=cTXZf7hyj-rZ2guO) | 3D Modeling & Rendering Tutorials at <1 Minute Each Using Blender |
+| • [BlenderVitals](https://youtube.com/playlist?list=PLMDIokDTwYr2P7NJkiEPbezEZsgW9Yr_N&si=AGickgU4PaTdoMrd) | 3D Rendering Tutorials at 1 Minute Each Using Blender |
+| • [1 minute Blender](https://youtube.com/playlist?list=PLFmCO7KRkJbCtKIHG33didkEZdYIjVRy9&si=SdrL3UahNIgLyQ_D)| 3D Rendering Tutorials at 1 Minute Each Using Blender |
 | • [CG Cookie](https://youtube.com/playlist?list=PL3GeP3YLZn5hNd8eLSC64RX3Cr2I9xu8o&si=EhdbeEkkkgBUhqeC)| 3D Rendering Tutorials Using Blender |
 | • [Blender Secrets](https://www.youtube.com/@BlenderSecrets/playlists) | 3D Animation Tutorials Using Blender |
 | • [KennyPhases](https://youtube.com/playlist?list=PLeT-XEXZURqMDgk-Zv8xBASoTgI6aMZ3k&si=Rmoa70kj7huolcVg)| 3D Animation Tutorials Using Blender |
