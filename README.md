@@ -1,7 +1,5 @@
 # Free-Education
 
-
-
 A collection of free educational materials, most of which are interactive or 3D animated. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing. Curated by Onri Jay Benally, an Indigenous American Quantum Hardware Engineer.
 _____________________________________________________________________________________________________________________________________________________________________________
 
