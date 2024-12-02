@@ -24,6 +24,7 @@ ________________________________________________________________________________
 | • [School of Quantum - QuTech Academy](https://www.qutube.nl) | Learning Resources for Quantum Technology Education |
 | • [OQTANT - Infleqtion](https://oqtant.infleqtion.com) | Cloud-Based, Hardware Supported Quantum Matter Phenomena Generator & Simulator |
 | • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
+| • [Google - Technical Writing](https://developers.google.com/tech-writing/overview) | Browser-Based Technical Writing Activities |
 | • [Quill](https://www.quill.org) | Browser-Based Interactive Writing Activities |
 | • [Luwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
