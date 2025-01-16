@@ -1,6 +1,9 @@
 # Free-Education
 
 A collection of free educational materials, most of which are interactive or 3D animated. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing. Curated by Onri Jay Benally, an Indigenous American Quantum Hardware Engineer.
+
+Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/OJB-Quantum/Free-Education)
+
 _____________________________________________________________________________________________________________________________________________________________________________
 
 | List of Curated Resources | Description |
@@ -63,7 +66,9 @@ ________________________________________________________________________________
 | • [DIY EE List - All About Circuits](https://www.allaboutcircuits.com/textbook/experiments/) | DIY Electronics Projects |
 | • [Printables - Rack Robotics](https://www.printables.com/model/411400-ender-3-to-edm-machine-conversion) | DIY Electric Discharge Machining Tutorial |
 | • [Hackaday - Dan Berard](https://hackaday.io/project/4986-scanning-tunneling-microscope) | DIY Scanning Tunneling Microscope Tutorial |
+
 ________________________________________________________________________________________________________________________________________________
+
 | Full Immersion by Sight, Auditory, and Tactile Means |
 |-|
 | Sight = Animation |
