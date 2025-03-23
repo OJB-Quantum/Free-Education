@@ -29,7 +29,7 @@ ________________________________________________________________________________
 | • [QC Simulator](https://qcsimulator.github.io) | Browser-Based Interactive Quantum Circuit Simulator |
 | • [Google - Technical Writing](https://developers.google.com/tech-writing/overview) | Browser-Based Technical Writing Activities |
 | • [Quill](https://www.quill.org) | Browser-Based Interactive Writing Activities |
-| • [Luwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
+| • [Ludwig.guru](https://ludwig.guru) | Browser-Based Interactive Linguistic Search Engine |
 | • [Learn Git Branching](https://learngitbranching.js.org) | Browser-Based Interactive GitHub Teaching Tool |
 | • [Browserling - PhysURLs](https://physurls.com) | Sites for Searching Up Open Access Physics Topics |
 | • [Zack D. Films](https://www.youtube.com/@zackdfilms/shorts)| 3D Animations of Everyday Topics |
