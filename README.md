@@ -11,6 +11,7 @@ ________________________________________________________________________________
 | • [PhET - CU Boulder](https://phet.colorado.edu/en/simulations/browse) | Browser-Based Interactive STEM Simulations |
 | • [oPhysics](https://ophysics.com/w12.html) | Browser-Based Interactive Physics Simulations |
 | • [Phydemo](https://phydemo.app/ray-optics) | Browser-Based Interactive Ray Optics Simulations |
+| • [Wave Simulator - Starfree](https://wavesimulator.starfree.app)| Browser-Based Interactive 2D Wave Simulations |
 | • [Ripple Tank - Falstad](https://www.falstad.com/ripple/Ripple.html) | Browser-Based Interactive 2D & 3D Wave Simulations |
 | • [Applets - Falstad](https://www.falstad.com/mathphysics.html) | Browser-Based Interactive Math, Physics, & Engineering Simulations |
 | • [MyScope](https://myscope.training) | Browser-Based Interactive Advanced Microscopy Simulations (SEM, TEM, FIB, LFM, XRD, EDS, APT, & SPM) & Resources |
