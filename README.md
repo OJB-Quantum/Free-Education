@@ -76,6 +76,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 | - [GitHub - QC Hardware How-To](https://github.com/OJB-Quantum/QC-Hardware-How-To) | Learning Resources for Quantum Hardware Engineering |
 | - [GitHub - Qiskit Metal to Litho](https://github.com/OJB-Quantum/Qiskit-Metal-to-Litho) | Learning Resources for Quantum Device Fabrication |
 | - [GitHub - Communication-Strategies](https://github.com/OJB-Quantum/Communication-Strategies) | Learning Resources on Effective & Clear Written Communication |
+| - [GitHub - Math-and-Physics-How-To](https://github.com/OJB-Quantum/Math-and-Physics-How-To) | Learning Resources on How to Think Mathematically | 
 
 --- 
 
