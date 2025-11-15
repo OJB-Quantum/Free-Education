@@ -91,7 +91,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 
 --- 
 
-## Curated List of Quantum Education Material from MIT Open Course Ware 
+## Curated List of Quantum Education Material from MIT Open Course Ware (OCW)
 ### (Ranked from Undergraduate to Graduate Level)
 
 | **Course Name**                                   | **Link**                                                                 |
