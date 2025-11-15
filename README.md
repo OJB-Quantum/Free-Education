@@ -1,5 +1,7 @@
 # Free-Education
 
+[![License](https://img.shields.io/badge/Creative_Commons-License-green)](https://choosealicense.com/licenses/cc-by-4.0)
+
 A collection of free educational materials, most of which are interactive or 3D animated. You may find inspiration for measurement techniques here. They may improve your comprehension of STEM topics and even writing. Curated by Onri Jay Benally, an Indigenous American Quantum Hardware Engineer.
 
 Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/OJB-Quantum/Free-Education)
