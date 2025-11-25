@@ -16,7 +16,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 | - [Wave Simulator - Starfree](https://wavesimulator.starfree.app)| Browser-Based Interactive 2D Wave Simulations |
 | - [Ripple Tank - Falstad](https://www.falstad.com/ripple/Ripple.html) | Browser-Based Interactive 2D & 3D Wave Simulations |
 | - [Applets - Falstad](https://www.falstad.com/mathphysics.html) | Browser-Based Interactive Math, Physics, & Engineering Simulations |
-| - [Quantum Interactive Animations - Physics Reimagined](https://vulgarisation.fr/animations/en/) | Browser-Based Interactive Quantum Phenomena Visualization Tool | 
+| - [Quantum Interactive Animations - Physics Reimagined](https://vulgarisation.fr/animations/en/f7D32Kpx2R7jRS7r) | Browser-Based Interactive Quantum Phenomena Visualization Tool | 
 | - [MyScope](https://myscope.training) | Browser-Based Interactive Advanced Microscopy Simulations (SEM, TEM, FIB, LFM, XRD, EDS, APT, & SPM) & Resources |
 | - [MolView](https://molview.org)| Browser-Based Interactive Atomic & Molecular Modeling Visualization & Analysis Tool |
 | - [Tiny Tapeout](https://tinytapeout.com/siliwiz/introduction) | Browser-Based Interactive Semiconductor Circuit Education |
