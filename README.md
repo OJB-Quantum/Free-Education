@@ -21,7 +21,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 | - [MolView](https://molview.org)| Browser-Based Interactive Atomic & Molecular Modeling Visualization & Analysis Tool |
 | - [Tiny Tapeout](https://tinytapeout.com/siliwiz/introduction) | Browser-Based Interactive Semiconductor Circuit Education |
 | - [Siliwiz](https://siliwiz.pages.dev) | Browser-Based Interactive Semiconductor Circuit Simulator with Downloadable 3D Models |
-| - [CAU - Inst. of Mat. Sci.](https://www.tf.uni-kiel.de/matwis/amat/iss/index.html) | Learning Materials Science Through Swords |
+| - [CAU - Inst. of Mat. Sci.](http://web.tf.uni-kiel.de/matwis/amat/iss/index.html) | Learning Materials Science Through Swords |
 | - [Magnet Academy - National MagLab](https://nationalmaglab.org/magnet-academy/watch-play/interactive-tutorials) | Browser-Based Interactive Tutorials on Electricity & Magnetism |
 | - [AURORA - COMSOL](https://aurora.epfl.ch/app-lib) | Browser-Based Interactive COMSOL Superconducting Magnet Simulation |
 | - [Learn Quantum Mechanics - Georgia Tech](https://learnqm.gatech.edu/Semiconductor-Physics-Visualization/index.html) | Browser-Based Interactive Quantum Mechanics & Semiconductor Physics Animations |
