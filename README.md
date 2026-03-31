@@ -36,7 +36,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 
 ---
 
-| List of Curated Resources (Animations & Animation Tutorials) | Description |
+| List of Curated Resources <br> (Animations & Animation Tutorials) | Description |
 |-|-|
 | - [Zack D. Films](https://www.youtube.com/@zackdfilms/shorts)| 3D Animations of Everyday Topics |
 | - [Sabins Civil Engineering](https://www.youtube.com/@SabinCivil/playlists) | 3D Animations of Engineering Topics |
@@ -62,7 +62,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 
 ---
 
-| List of Curated Resources (Technical Written Tutorials) | Description |
+| List of Curated Resources <br> (Technical Written Tutorials) | Description |
 |-|-|
 | - [Google - Technical Writing](https://developers.google.com/tech-writing/overview) | Browser-Based Technical Writing Activities |
 | - [Quill](https://www.quill.org) | Browser-Based Interactive Writing Activities |
@@ -83,7 +83,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 
 --- 
 
-| List of Curated Resources (Do-It-Yourself (DIY) Hardware Tutorials) | Description |
+| List of Curated Resources <br> (Do-It-Yourself (DIY) Hardware Tutorials) | Description |
 |-|-|
 | - [Instructables - GreatScott Lab](https://www.instructables.com/member/GreatScottLab/instructables) | DIY Electronics Tutorials |
 | - [DIY EE List - All About Circuits](https://www.allaboutcircuits.com/textbook/experiments/) | DIY Electronics Projects |
