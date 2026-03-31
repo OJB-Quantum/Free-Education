@@ -8,7 +8,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 
 --- 
 
-| List of Curated Resources (Simulators & Tools) | Description |
+| List of Curated Resources <br> (Simulators & Tools) | Description |
 |-|-|
 | - [PhET - CU Boulder](https://phet.colorado.edu/en/simulations/browse) | Browser-Based Interactive STEM Simulations |
 | - [oPhysics](https://ophysics.com/w12.html) | Browser-Based Interactive Physics Simulations |
