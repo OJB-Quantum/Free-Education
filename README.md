@@ -110,7 +110,8 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 | Quantum Computation                               | [Quantum Computation](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003)                       |
 | Applied Quantum & Statistical Physics            | [Applied Quantum & Statistical Physics](https://ocw.mit.edu/courses/6-728-applied-quantum-and-statistical-physics-fall-2006) |
 | Computational Quantum Mechanics of Molecular & Extended Systems | [Computational Quantum Mechanics of Molecular & Extended Systems](https://ocw.mit.edu/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004) |
-| Quantum Optical Communication                    | [Quantum Optical Communication](https://ocw.mit.edu/courses/6-453-quantum-optical-communication-fall-2016/) |
+| Quantum Optical Communication                    | [Quantum Optical Communication](https://ocw.mit.edu/courses/6-453-quantum-optical-communication-fall-2016) |
+| Fundamentals of Photonics: Quantum Electronics | [Fundamentals of Photonics: Quantum Electronics](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006) |
 | Quantum Electronics                               | [Quantum Electronics](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006) |
 | Physics of Microfabrication                       | [Physics of Microfabrication](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004) |
 | Magnetic Materials                                | [Magnetic Materials](https://ocw.mit.edu/courses/3-45-magnetic-materials-spring-2004)                          |
