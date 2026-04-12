@@ -103,14 +103,15 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 | Quantum Physics I                                 | [Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016)                            |
 | Quantum Physics II                                | [Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013)                            |
 | Quantum Physics III                               | [Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018)                        |
+| Electronic, Optical and Magnetic Properties of Materials | [Electronic, Optical and Magnetic Properties of Materials](https://ocw.mit.edu/courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013) |
 | Quantum Information Science                       | [Quantum Information Science](https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006)    |
 | Quantum Information Science I                    | [Quantum Information Science I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018)   |
 | Quantum Information Science II                   | [Quantum Information Science II](https://ocw.mit.edu/courses/8-371x-quantum-information-science-ii-spring-2018) |
 | Quantum Computation                               | [Quantum Computation](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003)                       |
 | Applied Quantum & Statistical Physics            | [Applied Quantum & Statistical Physics](https://ocw.mit.edu/courses/6-728-applied-quantum-and-statistical-physics-fall-2006) |
 | Computational Quantum Mechanics of Molecular & Extended Systems | [Computational Quantum Mechanics of Molecular & Extended Systems](https://ocw.mit.edu/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004) |
-| Quantum Optical Communication                    | [Quantum Optical Communication](https://ocw.mit.edu/courses/6-453-quantum-optical-communication-fall-2016/) |
-| Quantum Electronics                               | [Quantum Electronics](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006) |
+| Quantum Optical Communication                    | [Quantum Optical Communication](https://ocw.mit.edu/courses/6-453-quantum-optical-communication-fall-2016) |
+| Fundamentals of Photonics: Quantum Electronics | [Fundamentals of Photonics: Quantum Electronics](https://ocw.mit.edu/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006) |
 | Physics of Microfabrication                       | [Physics of Microfabrication](https://ocw.mit.edu/courses/6-774-physics-of-microfabrication-front-end-processing-fall-2004) |
 | Magnetic Materials                                | [Magnetic Materials](https://ocw.mit.edu/courses/3-45-magnetic-materials-spring-2004)                          |
 | Superconducting Magnets                           | [Superconducting Magnets](https://ocw.mit.edu/courses/22-68j-superconducting-magnets-spring-2003)              |
