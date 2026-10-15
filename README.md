@@ -11,6 +11,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 | List of Curated Resources <br> (Simulators & Tools) | Description |
 |-|-|
 | - [PhET - CU Boulder](https://phet.colorado.edu/en/simulations/browse) | Browser-Based Interactive STEM Simulations |
+| - [Space Atlas](https://saramjh.github.io/space_atlas_student/) | Free browser-based interactive Moon phases, Earth seasons, and cosmic-scale models for science education (no account required) |
 | - [oPhysics](https://ophysics.com/w12.html) | Browser-Based Interactive Physics Simulations |
 | - [Phydemo](https://phydemo.app/ray-optics) | Browser-Based Interactive Ray Optics Simulations |
 | - [Wave Simulator - Starfree](https://wavesimulator.starfree.app)| Browser-Based Interactive 2D Wave Simulations |
