@@ -34,6 +34,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 | - [Virtual Reality Cleanroom Tour - Cornell University](https://www.cnf.cornell.edu/education/vr/youthoutreachmodule) | Browser/ App-Based Interactive Cleanroom Teaching Tool |
 | - [360-Degree Cleanroom Tour - University of Waterloo](https://uwaterloo.ca/quantum-nano-fabrication-and-characterization-facility/virtual-tours) | Browser-Based Interactive Cleanroom Teaching Tool |
 | - [Bluefors LDsl System](https://ldsl-system.bluefors.com) | Browser-Based Interactive Cryogenic Measurement Refrigerator Education Tool |
+| - [Libre Calculator](https://librecalculator.com/calculators/speed/) | Browser-Based Average Speed Calculator from Distance and Elapsed Time, with Worked Steps |
 
 ---
 
