@@ -12,6 +12,7 @@ Primary URL for the repository: [OJB-Quantum/Free-Education](https://github.com/
 |-|-|
 | - [PhET - CU Boulder](https://phet.colorado.edu/en/simulations/browse) | Browser-Based Interactive STEM Simulations |
 | - [oPhysics](https://ophysics.com/w12.html) | Browser-Based Interactive Physics Simulations |
+| - [Sandbox Physics](https://sandboxphysics.com/) | Browser-Based Interactive Physics Experiments with English and Chinese Explanations |
 | - [Phydemo](https://phydemo.app/ray-optics) | Browser-Based Interactive Ray Optics Simulations |
 | - [Wave Simulator - Starfree](https://wavesimulator.starfree.app)| Browser-Based Interactive 2D Wave Simulations |
 | - [Ripple Tank - Falstad](https://www.falstad.com/ripple/Ripple.html) | Browser-Based Interactive 2D & 3D Wave Simulations |
